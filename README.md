@@ -4,7 +4,7 @@
 
 🌐 Portfolio: https://your-vercel-url.vercel.app
 
-🔗 LinkedIn: https://www.linkedin.com/in/anmol-kumar-prajapati-4623082b2
+🔗 LinkedIn: https://www.linkedin.com/in/anmol-kumar-prajapati
 
 💻 GitHub: https://github.com/Anmol54645
 
